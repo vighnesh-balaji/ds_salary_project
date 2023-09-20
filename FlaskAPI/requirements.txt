@@ -1,0 +1,46 @@
+aiohttp==3.8.5
+aiosignal==1.3.1
+asttokens==2.4.0
+async-timeout==4.0.3
+Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
+click @ file:///C:/ci/click_1646038595831/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+dask==2023.9.1
+dataprep==0.4.5
+executing==0.8.3
+Flask==2.2.5
+Flask-Cors==3.0.10
+frozenlist==1.4.0
+importlib-metadata==6.8.0
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2==3.0.3
+joblib @ file:///C:/b/abs_1anqjntpan/croot/joblib_1685113317150/work
+jsonpath-ng==1.5.3
+MarkupSafe==2.1.3
+Metaphone==0.6
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+multidict==6.0.4
+numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
+numpy @ file:///C:/b/abs_f6napi3n6e/croot/numpy_and_numpy_base_1691091651337/work
+pandas @ file:///C:/miniconda3/conda-bld/pandas_1692299636855/work
+ply==3.11
+pure-eval==0.2.2
+pydantic==1.10.12
+pydot==1.4.2
+python-crfsuite==0.9.8
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-stdnum==1.19
+pytz @ file:///C:/b/abs_19q3ljkez4/croot/pytz_1695131651401/work
+rapidfuzz==2.15.1
+scikit-learn @ file:///C:/b/abs_55olq_4gzc/croot/scikit-learn_1690978955123/work
+scipy==1.11.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+SQLAlchemy==1.3.24
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+varname==0.8.3
+Werkzeug==2.3.7
+yarl==1.9.2
+zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
